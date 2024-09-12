@@ -1,0 +1,4 @@
+{
+    "watch": ["*.js", "*.html", "*.css"],
+    "exec": "node server.js"
+}

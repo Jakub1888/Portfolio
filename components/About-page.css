@@ -1,0 +1,19 @@
+ul {
+    padding: 0;
+    list-style: none;
+
+    li {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 1em;
+
+        .position {
+            font-weight: 600;
+        }
+
+        .company {
+            color: var(--secondary-text-color);
+        }
+    }
+}
+
